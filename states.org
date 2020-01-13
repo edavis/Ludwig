@@ -1,0 +1,125 @@
+#+OPTIONS: H:6
+
+* United States
+** Far West
+*** Alaska
+*** California
+*** Hawaii
+*** Nevada
+**** Las Vegas
+**** Reno
+**** Ely
+**** Gerlach
+*** Oregon
+*** Washington
+** Great Plains
+*** Kansas
+*** Nebraska
+*** North Dakota
+*** Oklahoma
+*** South Dakota
+** Mid-Atlantic
+*** Delaware
+*** Maryland
+*** New Jersey
+*** New York
+*** Pennsylvania
+** Midwest
+*** Illinois
+*** Indiana
+*** Iowa
+*** Kentucky
+*** Michigan
+*** Minnesota
+*** Missouri
+*** Ohio
+*** West Virginia
+*** Wisconsin
+** Mountains
+*** Colorado
+*** Idaho
+*** Montana
+*** Utah
+*** Wyoming
+** New England
+*** Connecticut
+*** Maine
+*** Massachusetts
+*** New Hampshire
+*** Rhode Island
+*** Vermont
+** South
+*** Alabama
+*** Arkansas
+*** Florida
+*** Georgia
+*** Louisiana
+*** Mississippi
+*** North Carolina
+*** South Carolina
+*** Tennessee
+*** Virginia
+** Southwest
+*** Arizona
+*** New Mexico
+*** Texas
+* NHL
+** Western Conference
+*** Pacific
+**** Anaheim Ducks
+**** Arizona Coyotes
+**** Calgary Flames
+**** Edmonton Oilers
+**** Los Angeles Kings
+**** San Jose Sharks
+**** Vancuver Canucks
+**** Vegas Golden Knights
+Head Coach: Gerard Gallant (nickname: Turk)
+
+Reached the Stanley Cup Finals in their inaugural 2017-18 season where
+they were defeated by the Washington Capitals (4-1).
+*** Central
+**** Chicago Blackhawks
+**** Colorado Avalanche
+**** Dallas Stars
+**** Minnesota Wild
+**** Nashville Predators
+**** St. Louis Blues
+**** Winnipeg Jets
+
+** Eastern Conference
+*** Metropolitan
+**** Carolina Hurricanes
+**** Columbus Blue Jackets
+**** New Jersey Devils
+**** New York Islanders
+**** New York Rangers
+**** Philadelphia Flyers
+**** Pittsburgh Penguins
+**** Washington Capitals
+*** Atlantic
+**** Boston Bruins
+**** Buffalo Sabres
+**** Detroit Red Wings
+**** Florida Panthers
+**** Montreal Canadiens
+**** Ottawa Senators
+**** Tampa Bay Lightning
+**** Toronto Maple Leafs
+* About
+
+This file began life as states.org but now exists as a testbed for Ludwig.
+
+* Homepage
+:PROPERTIES:
+:CUSTOM_ID: _index
+:END:
+
+The node with an ID of =_index= (if available) serves as the index page.
+
+If it doesn't exist, the entire file is rendered.
+
+#+BEGIN_SRC python
+def hello():
+    return 'world'
+#+END_SRC
